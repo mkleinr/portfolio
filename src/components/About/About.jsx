@@ -43,7 +43,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'I obtained my Bachelor in Business & IT at the University of Twente where I learned how to code and communciate. I attended Hyper Island for my Master in Digital Management, which thought me how to apply this foundation in a creative and impactful manner.'}
+                    'I obtained my Bachelor in Business & IT at the University of Twente where I learned how to code and communciate. I attended Hyper Island for my Master in Digital Management, which taught me how to apply this foundation in a creative and impactful manner.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
